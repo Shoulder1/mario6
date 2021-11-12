@@ -199,7 +199,7 @@ p::selection{
         top: 0px;
     }
     header{
-        position: relative;
+        position: fixed;
     }
 
 }
